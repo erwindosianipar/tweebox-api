@@ -35,7 +35,7 @@
 
 	if (isset($_POST['submit']))
 	{
-		if ($_POST['password'] === "3rw1nd00S")
+		if ($_POST['password'] === "YOUR_PASSWORD")
 		{
 			if ($_POST['status'] != "" && strlen($_POST['status']) <= 140)
 			{
