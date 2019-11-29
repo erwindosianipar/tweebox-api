@@ -16,5 +16,5 @@ PHP library Twitter's OAuth REST API: https://github.com/abraham/twitteroauth/
 
 # Cron Job Setting
 Create cronjob to automatic script running
-1. 0,30	*	*	*	*	php -q /home/sfivqbrd/public_html/path/twitter/retweet.php >/dev/null 2>&1
-2. */5	*	*	*	*	php -q /home/sfivqbrd/public_html/path/twitter/index.php >/dev/null 2>&1
+1. 0,30	*	*	*	*	php -q /home/user/public_html/path/twitter/retweet.php >/dev/null 2>&1
+2. */5	*	*	*	*	php -q /home/user/public_html/path/twitter/index.php >/dev/null 2>&1
